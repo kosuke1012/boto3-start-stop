@@ -1,5 +1,0 @@
-securitygroupid: <Your SecurityGroup ID>
-securitygrouprulename: <Your SecurityGroup Name>
-instanceid: <Your Instance ID>
-rsapath: <Path to your rsa (used to create ssh command)>
-
