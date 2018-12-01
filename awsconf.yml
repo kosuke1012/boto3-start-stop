@@ -1,0 +1,5 @@
+securitygroupid: <your securitygroupid>
+securitygrouprulename: <your securitygroupname>
+instanceid: <your instanceid>
+rsapath: <path to your rsa>
+
